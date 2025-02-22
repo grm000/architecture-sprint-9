@@ -2,4 +2,8 @@
 
 [Exc1](https://github.com/grm000/architecture-sprint-9/blob/sprint-9/Exc1)
 
+# Задание 2. FURPS+ таблица
+
+[Exc2](https://github.com/grm000/architecture-sprint-9/blob/sprint-9/Exc2)
+
 
