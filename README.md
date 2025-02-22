@@ -10,4 +10,6 @@
 
 [Exc3](https://github.com/grm000/architecture-sprint-9/blob/sprint-9/Exc3)
 
+# Задание 4. Передача ставок в кол-центр
 
+[Exc4](https://github.com/grm000/architecture-sprint-9/blob/sprint-9/Exc4)
